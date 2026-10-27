@@ -175,7 +175,7 @@ Two simultaneous requests for the exact same seat will strictly result in **exac
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/parv55555/imovies.git
+git clone https://github.com/debugswithom2112/imovies.git
 cd imovies
 ```
 
